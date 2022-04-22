@@ -37,3 +37,5 @@
 <img align="center" alt="PHP" height="30" width="auto" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img align="center" alt="Markdown" height="30" width="auto" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
+
+![snake gif](https://github.com/wiliscavalcante/wiliscavalcante/blob/output/github-contribution-grid-snake.gif)
