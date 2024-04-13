@@ -1,6 +1,22 @@
-### Hey, I'm Wilis Cavalcante 🖐🏻
+### Olá, eu sou Wilis Cavalcante 👋
 
-[![Blog](https://img.shields.io/website?label=wiliscavalcante.dev&style=for-the-badge&url=https://wiliscavalcante.dev)](https://wiliscavalcante.dev)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/WilisCavalcante)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilis/)[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wiliscavalcante/)
+Sou um SRE (Site Reliability Engineer) e líder de equipe com foco em DevSecOps. Trabalho para garantir a confiabilidade, segurança e eficiência dos sistemas, integrando práticas de desenvolvimento, segurança e operações. Meu objetivo é criar ambientes robustos e seguros que suportem desenvolvimento ágil e inovação contínua.
+
+#### 🛠️ Tecnologias e Ferramentas
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Zabbix](https://img.shields.io/badge/-Zabbix-CA1F26?style=flat-square&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Bash Scripting](https://img.shields.io/badge/-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 
 ![Wilis Cavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=wiliscavalcante&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiliscavalcante&layout=compact)
