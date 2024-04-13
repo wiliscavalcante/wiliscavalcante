@@ -21,40 +21,21 @@ Sou um SRE (Site Reliability Engineer) e líder de equipe com foco em DevSecOps.
 ![Wilis Cavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=wiliscavalcante&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiliscavalcante&layout=compact)
 
-## Cloud Providers que uso no meu dia
-<div style="display: inline_block"><br/>
-<img align="center" alt="AWS" height="60" width="auto" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg">
-<img align="center" alt="GCP" height="60" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-<img align="center" alt="Azure" height="60" width="auto" src="https://code.benco.io/icon-collection/logos/azure-offical.svg">
-<img align="center" alt="Digital Ocean" height="60" width="auto" src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg">
-<img align="center" alt="Oracle Cloud" height="50" width="auto" src="https://i.pinimg.com/originals/08/ed/5e/08ed5e21ba68fda78747257e5aa4bb70.png">
-</div>
+#### ⚙️ Princípios de SRE e DevSecOps
 
-## Algumas Tecnologias que uso no meu dia dia
-<div style="display: inline_block"><br/>
-<img align="center" alt="Kubernetes" height="60" width="auto" src="https://code.benco.io/icon-collection/logos/kubernetes.svg">
-<img align="center" alt="Docker" height="60" width="auto" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp">
-<img align="center" alt="Git" height="60" width="auto" src="https://code.benco.io/icon-collection/logos/git.svg">
-<img align="center" alt="Terraform" height="60" width="auto" src="https://code.benco.io/icon-collection/logos/terraform.svg">
-<img align="center" alt="Ansible" height="60" width="auto" src="https://code.benco.io/icon-collection/logos/ansible.svg">
-<img align="center" alt="Linux" height="60" width="auto" src="https://code.benco.io/icon-collection/logos/linux-tux-colour.svg"> 
-<img align="center" alt="Linux" height="60" width="auto" src="https://rancher.com/assets/img/logos/rancher-logo-cow-blue.svg"> 
-</div>
+Como SRE, aplico uma abordagem sistemática para resolver problemas em larga escala, automatizar operações e integrar segurança desde o início do ciclo de desenvolvimento. Meu trabalho envolve:
+
+- **Monitoramento e logging:** Implementar ferramentas robustas para garantir visibilidade total do desempenho e segurança dos sistemas.
+- **Automação:** Usar ferramentas como Terraform e Ansible para automatizar a infraestrutura e as operações de segurança, reduzindo erros humanos e aumentando a eficiência.
+- **Gerenciamento de Incidentes:** Liderar a resposta a incidentes com uma mentalidade de "culpa zero" e foco na melhoria contínua.
+- **Cultura DevSecOps:** Fomentar uma cultura de colaboração entre desenvolvedores, operadores e especialistas em segurança para melhorar a segurança e a qualidade do software.
 
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="Shell Script" height="30" width="auto" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img align="center" alt="Python" height="30" width="auto" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="Mysql" height="30" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="Postgres" height="30" width="auto" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img align="center" alt="MongoDB" height="30" width="auto" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img align="center" alt="Java" height="30" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img align="center" alt="NodeJS" height="30" width="auto" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="center" alt="PHP" height="30" width="auto" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img align="center" alt="Markdown" height="30" width="auto" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-<img align="center" alt="HTML5" height="30" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="CSS3" height="30" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="JAVASCRIPT" height="30" width="auto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+#### 📫 Como me encontrar
 
-![snake gif](https://github.com/wiliscavalcante/wiliscavalcante/blob/output/github-contribution-grid-snake.gif)
+- **Email:** wiliscavalcante@gmail.com
+- **LinkedIn:** [LinkedIn/wiliscavalcante](https://www.linkedin.com/in/wilis/)
+
+#### 💬 Liderança e Colaboração
+
+Como líder de equipe, estou sempre aberto a novas ideias e abordagens colaborativas. Se você estiver interessado em melhorar a confiabilidade e a segurança dos seus sistemas ou precisar de orientação em DevSecOps, não hesite em entrar em contato.
