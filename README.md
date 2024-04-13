@@ -5,6 +5,7 @@ Sou um SRE (Site Reliability Engineer) e líder de equipe com foco em DevSecOps.
 ![Wilis Cavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=wiliscavalcante&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiliscavalcante&layout=compact)
 
+![Snake animation](https://github.com/wiliscavalcante/wiliscavalcante/blob/output/github-contribution-grid-snake.svg)
 #### 🛠️ Tecnologias e Ferramentas
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
