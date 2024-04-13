@@ -8,6 +8,8 @@ Sou um SRE (Site Reliability Engineer) e líder de equipe com foco em DevSecOps.
 ![Snake animation](https://github.com/wiliscavalcante/wiliscavalcante/blob/output/github-contribution-grid-snake.svg)
 #### 🛠️ Tecnologias e Ferramentas
 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
