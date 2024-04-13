@@ -35,7 +35,7 @@ Como SRE, aplico uma abordagem sistemática para resolver problemas em larga esc
 #### 📫 Como me encontrar
 
 - **Email:** wiliscavalcante@gmail.com
-- **LinkedIn:** <a href="https://www.linkedin.com/in/wilis/" target="_blank">LinkedIn/wiliscavalcante</a>
+- **LinkedIn:** [LinkedIn/wiliscavalcante](https://www.linkedin.com/in/wilis/)
 
 #### 💬 Liderança e Colaboração
 
