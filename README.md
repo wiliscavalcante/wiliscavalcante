@@ -2,6 +2,9 @@
 
 Sou um SRE (Site Reliability Engineer) e líder de equipe com foco em DevSecOps. Trabalho para garantir a confiabilidade, segurança e eficiência dos sistemas, integrando práticas de desenvolvimento, segurança e operações. Meu objetivo é criar ambientes robustos e seguros que suportem desenvolvimento ágil e inovação contínua.
 
+![Wilis Cavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=wiliscavalcante&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiliscavalcante&layout=compact)
+
 #### 🛠️ Tecnologias e Ferramentas
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -18,8 +21,6 @@ Sou um SRE (Site Reliability Engineer) e líder de equipe com foco em DevSecOps.
 ![Bash Scripting](https://img.shields.io/badge/-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 
-![Wilis Cavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=wiliscavalcante&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiliscavalcante&layout=compact)
 
 #### ⚙️ Princípios de SRE e DevSecOps
 
